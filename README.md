@@ -18,11 +18,11 @@ The data for this project was obtained from [BCSC](https://www.bcsc-research.org
 ## Prerequisites
 Commands for installing the various libraries you need to start this project.
 
-pip install pandas
-pip install numpy
-pip install seaborn
-pip install statsmodels
-pip install -U scikit-learn
+* pip install pandas
+* pip install numpy
+* pip install seaborn
+* pip install statsmodels
+* pip install -U scikit-learn
 
 
 
